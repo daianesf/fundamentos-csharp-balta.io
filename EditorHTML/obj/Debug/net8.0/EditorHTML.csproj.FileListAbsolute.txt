@@ -1,0 +1,14 @@
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\EditorHTML\bin\Debug\net8.0\EditorHTML.exe
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\EditorHTML\bin\Debug\net8.0\EditorHTML.deps.json
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\EditorHTML\bin\Debug\net8.0\EditorHTML.runtimeconfig.json
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\EditorHTML\bin\Debug\net8.0\EditorHTML.dll
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\EditorHTML\bin\Debug\net8.0\EditorHTML.pdb
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\EditorHTML\obj\Debug\net8.0\EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\EditorHTML\obj\Debug\net8.0\EditorHTML.AssemblyInfoInputs.cache
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\EditorHTML\obj\Debug\net8.0\EditorHTML.AssemblyInfo.cs
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\EditorHTML\obj\Debug\net8.0\EditorHTML.csproj.CoreCompileInputs.cache
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\EditorHTML\obj\Debug\net8.0\EditorHTML.dll
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\EditorHTML\obj\Debug\net8.0\refint\EditorHTML.dll
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\EditorHTML\obj\Debug\net8.0\EditorHTML.pdb
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\EditorHTML\obj\Debug\net8.0\EditorHTML.genruntimeconfig.cache
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\EditorHTML\obj\Debug\net8.0\ref\EditorHTML.dll

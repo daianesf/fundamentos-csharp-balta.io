@@ -1,0 +1,4 @@
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache

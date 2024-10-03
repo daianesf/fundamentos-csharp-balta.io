@@ -1,0 +1,14 @@
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ExemploTimeSpan\bin\Debug\net8.0\ExemploTimeSpan.exe
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ExemploTimeSpan\bin\Debug\net8.0\ExemploTimeSpan.deps.json
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ExemploTimeSpan\bin\Debug\net8.0\ExemploTimeSpan.runtimeconfig.json
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ExemploTimeSpan\bin\Debug\net8.0\ExemploTimeSpan.dll
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ExemploTimeSpan\bin\Debug\net8.0\ExemploTimeSpan.pdb
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ExemploTimeSpan\obj\Debug\net8.0\ExemploTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ExemploTimeSpan\obj\Debug\net8.0\ExemploTimeSpan.AssemblyInfoInputs.cache
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ExemploTimeSpan\obj\Debug\net8.0\ExemploTimeSpan.AssemblyInfo.cs
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ExemploTimeSpan\obj\Debug\net8.0\ExemploTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ExemploTimeSpan\obj\Debug\net8.0\ExemploTimeSpan.dll
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ExemploTimeSpan\obj\Debug\net8.0\refint\ExemploTimeSpan.dll
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ExemploTimeSpan\obj\Debug\net8.0\ExemploTimeSpan.pdb
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ExemploTimeSpan\obj\Debug\net8.0\ExemploTimeSpan.genruntimeconfig.cache
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ExemploTimeSpan\obj\Debug\net8.0\ref\ExemploTimeSpan.dll
