@@ -1,0 +1,14 @@
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.AssemblyInfo.cs
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.exe
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.deps.json
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.runtimeconfig.json
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.dll
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.pdb
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.dll
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ReferenceTypes\obj\Debug\net8.0\refint\ReferenceTypes.dll
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.pdb
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.genruntimeconfig.cache
+C:\Users\Note2\Documents\Estudos\fundamentos-csharp-balta.io\ReferenceTypes\obj\Debug\net8.0\ref\ReferenceTypes.dll
